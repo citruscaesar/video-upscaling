@@ -1,0 +1,8 @@
+torch
+torchvision
+transformers
+av
+imageio[pyav]
+nvitop
+ipykernel
+ipympl
