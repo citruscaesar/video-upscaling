@@ -1,6 +1,8 @@
 torch
 torchvision
 transformers
+diffusers
+accelerate
 av
 imageio[pyav]
 nvitop
